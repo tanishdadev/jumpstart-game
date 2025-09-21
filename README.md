@@ -4,7 +4,7 @@
 
 # How to play?
 
-## Just use W key to move forward, S key to move backward and Space key to jump.
+## Just use right arrow key to move forward, left arrow key to move backward and Space key to jump.
 
 # Why I made this project?
 
